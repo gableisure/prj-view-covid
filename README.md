@@ -6,7 +6,9 @@ O Projeto View Covid-19 foi realizado com o intuito de fornecer informações ac
 
 ## Colaboradores
 Gabriel Ribeiro de Araújo - gableisure@sempreceub.com
+
 Hugo Marcos Santana Gabriel - hugo.marcos@sempreceub.com
+
 Miguel Brito de Melo Pontes Cunha - miguelpc@sempreceub.com
 
 ## Começando
