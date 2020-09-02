@@ -1,10 +1,10 @@
 
-##Projeto View Covid-19
+## Projeto View Covid-19
 
-##Apresentação
+## Apresentação
 O Projeto View Covid-19 foi realizado com o intuito de fornecer informações acerca da evolução da doença Coronavírus no mundo. O seguinte projeto foi proposto pelo professor Aderbal Botelho Leite Neto, do Centro Universitário de Brasília - Uniceub.
 
-##Colaboradores
+## Colaboradores
 Gabriel Ribeiro de Araújo - gableisure@sempreceub.com
 Hugo Marcos Santana Gabriel - hugo.marcos@sempreceub.com
 Miguel Brito de Melo Pontes Cunha - miguelpc@sempreceub.com
