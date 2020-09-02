@@ -21,7 +21,7 @@ $ git clone https://gitlab.com/gableisure-dev/prj-view-covid.git
 
 Navegue até o diretório view-covid:
 ```
-$ cd covid/view-covid
+$ cd view-covid
 ```
 
 Instale todos os requisitos do projeto:
